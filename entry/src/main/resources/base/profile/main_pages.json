@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PersonPage",
+    "pages/LoginPage",
+    "pages/ShopPage",
+    "pages/ParticipatePage",
+    "pages/CollectPage",
+    "pages/ShopPage/GoodDetailsPage",
+    "pages/ShopPage/GoodsPage",
+    "pages/JDPage",
+    "pages/SearchPage",
+    "pages/weatherPage",
+    "pages/KFPage"
+  ]
+}
